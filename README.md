@@ -7,6 +7,5 @@ Performed data cleaning and preprocessing using Pandas and NumPy
 Conducted EDA to analyze price distribution, neighborhood demand, and room types
 Built visualizations using Matplotlib and Seaborn
 Identified key factors affecting pricing and availability
-Tools Used:
 
-Python, Pandas, NumPy, Matplotlib, Seaborn
+Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn
